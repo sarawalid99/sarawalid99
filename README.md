@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sara-walid-573518193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sara-walid-573518193" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100061165870231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100061165870231" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17605768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17605768" height="30" width="40" /></a>
+<a href="https://fb.com/سارة وليد" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="سارة وليد" height="30" width="40" /></a>
+<a href="https://instagram.com/sara_walid99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sara_walid99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarawalid931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarawalid931" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sarawalid931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarawalid931" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarawalid99&show_icons=true&locale=en&layout=compact" alt="sarawalid99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarawalid99&show_icons=true&locale=en" alt="sarawalid99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarawalid99&" alt="sarawalid99" /></p>
